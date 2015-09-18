@@ -9,5 +9,6 @@ if (!$link) {
 }
 
 echo "we hebben een verbinding";
+echo 'Yeah';
 
 ?>
